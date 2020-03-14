@@ -1,0 +1,4 @@
+config.seed
+openwrt-x86-64-vmlinuz
+openwrt-x86-64-generic.manifest
+sha256sums
