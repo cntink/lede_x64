@@ -1,8 +1,0 @@
-b9c0f7494c4118ab2d176bf88ae3903f6c275cab73850d3a3bca21136c63de43 *config.seed
-7388c01730b93fff9f8f6d2135b29fbc23ca2ce299f869b919b8d39993e1bf3f *openwrt-x86-64-combined-squashfs.img.gz
-90f9ca75b64539131a823e331264e7222a3ae720016f50afda4c0933f4f15bd6 *openwrt-x86-64-combined-squashfs.vmdk
-2420be5c22211a54be732be4696a4f47ffd1dd710c7bb767bcd5cf5d966542cc *openwrt-x86-64-generic.manifest
-f9fb764250f1a58aa068ea37b5672e5d84e46a86f8293f1bf69f0ec814a1733b *openwrt-x86-64-rootfs-squashfs.img.gz
-4fae307ba7a6e7ceef5dd1eb65c7a405367d6add3676b7a044642bedd8766534 *openwrt-x86-64-uefi-gpt-squashfs.img.gz
-ddcb7d4d35898e4c11cfe9a4caf62dd5b796c2319fc12cfa568ff447f8bc1ebc *openwrt-x86-64-uefi-gpt-squashfs.vmdk
-83efbffaa3956b446fbdde23ee4269fdab8f9d170295f2a9b225bf72d3dfe53d *openwrt-x86-64-vmlinuz
