@@ -1,15 +1,15 @@
 Package: base-files
-Version: 199-r2241-978c3f7a
+Version: 199-r2257-ffda8423
 Depends: libc, netifd, procd, jsonfilter, fstools, fwtool
 Source: package/base-files
 SourceName: base-files
 License: GPL-2.0
 Section: base
 Architecture: x86_64
-Installed-Size: 39369
-Filename: base-files_199-r2241-978c3f7a_x86_64.ipk
-Size: 40379
-SHA256sum: 0222cfad57a9e0e2ac9e1f99aa6cc119fb18631016ba54be9ea4f423e1ee313c
+Installed-Size: 39367
+Filename: base-files_199-r2257-ffda8423_x86_64.ipk
+Size: 40377
+SHA256sum: 3c790a8bce3f7830d9b0f8657addf16481858986902144cb8d7af4d4a59383ae
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: block-mount
