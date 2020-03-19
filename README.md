@@ -8,13 +8,15 @@
 登陆密码： 123456
 
 
-20200318_16:00：随大雕修复SSR+网飞模式等bug，更新luci-app-serverchan到1.47版本！
+20200319_15:39：修复SSR+的一些bug，增加"proxy in proxy"模式！
 
-20200317_23:42：随大雕更新SSR+代码！
+20200318_16:00：修复SSR+网飞模式等bug，更新luci-app-serverchan到1.47版本！
 
-20200317_19:46：随大雕更新更新大量SSR+代码，添加了网飞分流模式；Docker管理由专门的web管理程序代替，更加方便直观！
+20200317_23:42：更新SSR+代码！
 
-20200316_23:23：随大雕更新更新SSR+等代码，更新luci-app-serverchan、luci-app-dockerman代码，删除adbyby_plus！
+20200317_19:46：更新更新大量SSR+代码，添加了网飞分流模式；Docker管理由专门的web管理程序代替，更加方便直观！
+
+20200316_23:23：更新SSR+等代码，更新luci-app-serverchan、luci-app-dockerman代码，删除adbyby_plus！
 
 20200314_22:35：添加ADbyby_plus！
 
