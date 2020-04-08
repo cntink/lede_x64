@@ -11,6 +11,8 @@ OpenWrt LEDE_x64
 登录密码： `123456`
 
 
+20200408_16:00：内核升级到R20.4.8版！
+
 20200407_12:58：更新luci-app-serverchan到1.49版，修复luci-app-diskman一些bug，修复passwall一些bug，修复SSR+一些bug！
 
 20200402_15:02：修复一些bug，更新diskman到0.2.7版，停止发布uefi版！
