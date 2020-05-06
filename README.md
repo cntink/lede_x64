@@ -11,6 +11,8 @@ OpenWrt LEDE_x64
 登录密码： `123456`
 
 
+20200506_15:55：更新大量SSR+和passwall代码，修复一些小bug！
+
 20200427_23:35：更新较多东西，自行体会，没有新增其他插件！
 
 20200414_22:30：更新luci-app-serverchan到1.63版，修复passwall一些bug，修复SSR+一些bug！
